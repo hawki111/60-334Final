@@ -1,0 +1,79 @@
+table{
+	background-color: #ffffff;
+}
+table#index{
+	background-color: #c09f80;
+	margin: 0 auto;
+	width: 50%;
+}
+table#booking{
+	border: solid 1px black;
+	padding: 5px;
+}
+table#selection{
+	border-radius: 25px;
+	padding: 10px;
+}
+td#login, tr#booking{
+	text-align: right;
+}
+tr#booking, td#booking{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+tr#rooms:hover{
+color: white;
+background-color: #c09f80;
+}
+td#rooms{
+border: solid 1px black;
+}
+body{
+	background-color: #d7cec7;
+}
+p#price{
+	font-size: 1.6em;
+}
+div#room{
+	background-color: #ffffff;
+	width: 60%;
+	margin: 0 auto;
+	border-radius: 25px;
+}
+div#chart_div{
+	padding-top: 20px;
+}
+div#index{
+	background-color: #c09f80;
+	width: 55%;
+	margin: 0 auto;
+	font-size: 2em;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-radius: 25px;
+}
+div#book{
+	background-color: #c09f80;
+	width: 55%;
+	margin: 0 auto;
+	font-size: 2em;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-radius: 25px;
+}
+
+img#roompic{
+	float: right;
+}
+p{
+	padding-right: 40px;
+	padding-top:10px;
+	padding-left: 30px;
+}
+ul#navlist li{
+	display: inline;
+	margin: 0 auto;
+}
+//Color, d7cec7, 565656, 76323f, c09f80
